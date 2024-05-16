@@ -5,12 +5,8 @@ Welcome to the Multi-Omics Analysis Pipelines repository. This repository contai
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Pipeline Overview](#pipeline-overview)
-4. [Input Data](#input-data)
-5. [Output](#output)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+3. [Input Data](#input-data)
+4. [Output](#output)
 
 ## Introduction
 
