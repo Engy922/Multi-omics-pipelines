@@ -4,16 +4,19 @@ Welcome to the Multi-Omics Analysis Pipelines repository. This repository contai
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Input Data](#input-data)
-4. [Output](#output)
+2. [Data](#data)
+3. [Features](#features)
+4. [Input Data](#input-data)
+5. [Output](#output)
 
 ## Introduction
 
 The multi-omics analysis pipelines in this repository are designed to facilitate the integration and analysis of various omics datasets. By combining data from different omics layers, these pipelines help in uncovering complex biological interactions and mechanisms.
 
-## Features
+## Data
+Data could be retrived from this link related to diabetes II and covid-19 (studying host microbiome interaction) https://console.cloud.google.com/storage/browser/gbsc-gcp-project-ipop_public/HMP/RNAseq_abundance;tab=objects?prefix=&forceOnObjectsSortingFiltering=false
 
+## Features
 - **Data Integration:** Seamlessly integrate genomics, transcriptomics, proteomics, and metabolomics data.
 - **Comprehensive Analysis:** Perform differential expression analysis, pathway enrichment, network analysis, and more.
 - **Scalability:** Handle large-scale datasets with efficient computation.
